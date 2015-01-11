@@ -1,7 +1,7 @@
 <html>
 <head><title>個人情報入力</title></head>
 <body>
-<form action="31-003.php" method="POST" enctype="multipart/form-data">
+<form action="confirm.php" method="POST" enctype="multipart/form-data">
 氏名<input type="text" name="name"><BR>
 メールアドレス<input type="text" name="mail"><BR>
 性別<input type="radio" name="gender" value="女">女

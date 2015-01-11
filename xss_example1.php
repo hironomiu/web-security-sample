@@ -3,6 +3,7 @@
         <title>性格診断</title>
     </head>
 <body>
+xss脆弱性が潜んでいます
 <form method="get" action="<?php echo $_SERVER['PHP_SELF']; ?>">
         <select id="" name="attributes[]" multiple>
             <option value="生意気">生意気</option>
